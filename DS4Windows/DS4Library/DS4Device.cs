@@ -1522,7 +1522,8 @@ namespace DS4Windows
                 outReportBuffer[0] = knownGoodBTOutputReportType;
                 //outReportBuffer[0] = 0x15;
                 //outReportBuffer[1] = (byte)(0x80 | btPollRate); // input report rate
-                outReportBuffer[1] = (byte)(0xC0 | btPollRate); // input report rate
+                //outReportBuffer[1] = (byte)(0xC0 | btPollRate); // input report rate
+                outReportBuffer[1] = (byte)(0xC0); // temporarily disabled 
                 //outReportBuffer[2] = 0xA0;
 
                 // Headphone volume L (0x10), Headphone volume R (0x20), Mic volume (0x40), Speaker volume (0x80)
