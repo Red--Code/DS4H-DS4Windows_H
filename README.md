@@ -1,3 +1,4 @@
+#DS4H added rumble support for some knockoff ps4 controllers
 # DS4Windows
 
 Like those other DS4 tools, but sexier.
