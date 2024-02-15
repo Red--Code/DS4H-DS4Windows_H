@@ -21,6 +21,7 @@ available in this source code from the COPYING file.
 ## Downloads
 
 - **[Main builds of DS4Windows](https://github.com/Ryochan7/DS4Windows/releases)**
+- - **[Main builds of DS4H compatible](https://github.com/Red--Code/DS4H-DS4Windows_H/releases)**
 
 ## Requirements
 
